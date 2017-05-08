@@ -157,20 +157,23 @@ Github问题集（2）
 2.特点：
 	编辑过程注重文字而不是排版，支持html、pdf、md等多格式；兼容所有文本编辑器和字处理软件；可以放到管理系统追踪历史变更；开源  
 	
-3.用途：
+3.用途：  
+
 *程序员：日志、技术文稿、代码片段、起草邮箱；
 科研、学生：写论文，记笔记
 作家：写作
 微信等运营人员；编辑推送内容  
 
-4.编辑工具
-*windows:markdownpad、markpad;
-mac os x:mou;
-linuc retext
-web:github、简书  
+4.编辑工具  
 
-5.区块元素和区段元素
+*windows:markdownpad、markpad;
+* mac os x:mou;
+*linuc retext
+*web:github、简书  
+
+5.区块元素和区段元素  
+
 *区块：标题；段落和换行；引用；列表；代码区块；分割线
-区段：链接；强调；代码；图片
+*区段：链接；强调；代码；图片
 
 
