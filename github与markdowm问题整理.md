@@ -11,6 +11,7 @@
 
 
 3.学习github的5个理由
+
 *GitHub 只支持 Git 格式的版本库托管，而不像其他开源项目托管平台还对
 CVS、SVN、Hg 等格式的版本库进行托管。GitHub 的哲学很简单，既然 Git 是最好
 的版本控制系统之一（对于很多喜欢 Git 和 GitHub 的人没有之一），没有必要为
@@ -35,29 +36,39 @@ SSH 协议。
 
 *GitHub 网站采用 Ruby on Rails 架构，在 Web 设计中运用了大量的 JavaScript、
 AJAX、HTML5 等技术，支持对使用 Markdown 等标记语言的内容进行渲染和显示等。
-关注细节使得 GitHub 成为了项目托管领域的后起之秀。  
-
+关注细节使得 GitHub 成为了项目托管领域的后起之秀。    
 
 5.通过github年度报告让你记忆最深刻的信息有哪些
-	（1）js最热  （2）github发展速度惊人 
+	（1）js最热  （2）github发展速度惊人  
+	
 7.github上有可以个人账号 还可以有（ ）账号
-	企业和组织
+	企业和组织  
+	
 8.github上面的两个组成要素是什么
-	仓库 个人主页
+	仓库 个人主页  
+	
+	
 9.github上两个重要页面
-	overview  动态（登录页面）
+	overview  动态（登录页面）  
+	
+	
 10.主页菜单都包含什么
 	
 11.仓库的心跳线代表什么
-	对仓库中代码的更新程度
+	对仓库中代码的更新程度  
+
 12.star的作用是？
-	收藏
+	收藏  
+
 13.fork的作用是？
-	复制、更改  参与的
+	复制、更改  参与的  
+
 14.watch的作用是？
-	关注动态
+	关注动态  
+
 15.搜索结果分别有哪些类别
-repositories(仓库) code（文件、代码） commits（错误） lssues（专集、问题） wikis users（用户）
+repositories(仓库) code（文件、代码） commits（错误） lssues（专集、问题） wikis users（用户）  
+
 16.你在github上挖到什么宝
 
 
