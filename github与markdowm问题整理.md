@@ -166,14 +166,14 @@ Github问题集（2）
 
 4.编辑工具  
 
-*windows:markdownpad、markpad;
+* windows:markdownpad、markpad;
 * mac os x:mou;
-*linuc retext
-*web:github、简书  
+* linuc retext
+* web:github、简书  
 
 5.区块元素和区段元素  
 
-*区块：标题；段落和换行；引用；列表；代码区块；分割线
-*区段：链接；强调；代码；图片
+* 区块：标题；段落和换行；引用；列表；代码区块；分割线
+* 区段：链接；强调；代码；图片
 
 
